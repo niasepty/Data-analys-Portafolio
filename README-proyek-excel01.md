@@ -11,6 +11,7 @@ File `Latihan_Data_Cleaning_VLOOKUP.xlsx` terdiri dari beberapa sheet:
 | `Data_Transaksi` | Data transaksi penjualan yang dibersihkan dari duplikasi dan inkonsistensi format |
 | `Referensi_Produk` | Tabel master produk (kode, nama, dan harga satuan) sebagai sumber pencarian VLOOKUP |
 | `Latihan_VLOOKUP` | Implementasi rumus VLOOKUP untuk menarik data nama produk dan harga berdasarkan kode produk |
+| `pivot table` | Ringkasan otomatis dari data transaksi — menampilkan total penjualan per kota, rincian per produk, dan tren penjualan per bulan menggunakan Pivot Table |
 
 ## Keterampilan yang Dipelajari
 
