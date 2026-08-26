@@ -6,7 +6,8 @@ Repositori ini berisi kumpulan proyek latihan dalam proses belajar analisis data
 
 | No | Proyek | Deskripsi Singkat | Tools |
 |---|---|---|---|
-| 01 | [Data Cleaning, VLOOKUP, dan Pivot Table](./01-data-cleaning-vlookup-pivot) | Membersihkan data transaksi dari duplikasi, mencari data antar tabel dengan VLOOKUP, dan meringkas data dengan Pivot Table | Microsoft Excel |
+| 01 | [Data Cleaning, VLOOKUP, & Pivot Table](./01-data-cleaning-vlookup-pivot) | Membersihkan data transaksi dari duplikasi, mencari data antar tabel dengan VLOOKUP, dan meringkas data dengan Pivot Table. | Microsoft Excel |
+| 02 | [Analisis Kinerja Cabang & Root Cause](./02-analisis-performa-cabang) | Menganalisis performa penjualan ritel per cabang, menguji korelasi jumlah sales, dan mengidentifikasi anomali tren bulanan. | Microsoft Excel |
 
 ## Tentang
 
