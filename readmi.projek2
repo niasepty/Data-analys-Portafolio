@@ -1,0 +1,29 @@
+# 📊 Analisis Penjualan & Performa Cabang Elektronik
+
+Repositori ini berisi studi kasus pengolahan dan analisis data penjualan produk elektronik menggunakan Microsoft Excel. Proyek ini dibuat untuk mengeksplorasi data transaksi ritel, memahami pola pembelian pelanggan, dan mengidentifikasi performa tenaga sales di berbagai cabang.
+
+---
+
+## 📂 Struktur Data & Isi File (`Latihan2_Penjualan_Elektronik.xlsx`)
+
+File Excel dalam proyek ini terdiri dari beberapa *sheet* dengan fungsi masing-masing:
+1. **`Data_Penjualan`**: Berisi data transaksi mentah (*raw data*) seperti ID transaksi, tanggal, nama sales, kode barang, jumlah kuantitas (*qty*), dan lokasi cabang.
+2. **`Referensi_Barang`**: Tabel master yang berisi informasi detail mengenai produk, termasuk nama barang dan harga satuan.
+3. **`Latihan_VLOOKUP`**: Lembar latihan untuk menggabungkan data produk menggunakan fungsi pencarian (*lookup*).
+4. **`Pivot_Sales`**: Rekapitulasi total kuantitas penjualan yang berhasil dicapai oleh masing-masing tenaga sales.
+5. **`Pivot_Cabang_Barang`**: Analisis distribusi penjualan produk berdasarkan wilayah cabang untuk melihat produk apa saja yang paling diminati di tiap daerah.
+
+---
+
+## 📈 Temuan & Wawasan Utama (*Key Insights*)
+* **Kontribusi Cabang:** Dari analisis Pivot Table, terlihat jelas cabang mana yang memiliki volume transaksi tertinggi dan wilayah mana yang penjualannya perlu ditingkatkan.
+* **Performa Sales:** Distribusi penjualan per individu sales menunjukkan siapa saja tenaga penjual yang paling aktif berkontribusi terhadap total transaksi perusahaan.
+* **Produk Terlaris:** Kategori barang tertentu mendominasi kuantitas pembelian oleh pelanggan.
+
+---
+
+## 🛠️ Tools yang Digunakan
+* **Microsoft Excel**
+  * Data Cleaning & Formatting
+  * VLOOKUP / Lookup Functions
+  * Pivot Table & Pivot Chart
